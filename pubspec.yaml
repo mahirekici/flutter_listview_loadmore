@@ -1,0 +1,17 @@
+name: loadmore
+description: listview infinite scroll
+version: 2.0.0
+email: mahirekici3@gmail.com
+homepage: https://github.com/mahirekici/flutter_listview_infinite
+
+environment:
+  sdk: ">=2.10.0<3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
